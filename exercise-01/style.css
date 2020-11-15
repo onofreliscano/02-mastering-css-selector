@@ -1,0 +1,8 @@
+#someDiv > p {
+  background-color: blue;
+}
+
+
+#someDiv2 > p {
+  background-color: red;
+}
